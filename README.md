@@ -1,8 +1,9 @@
 ### Olá. Eu sou o Pedro Mota! 👋
 
 
-- 🔭 Full Stack Developer
-- 🌱 Estudando Python e outras linguagens
+- 💎 Full Stack Developer
+- 💻 Estudando Python e outras linguagens
+- 📚 Colégio UNIVAP - Curso Técnico em Informática
 
 
 <div align="center">
