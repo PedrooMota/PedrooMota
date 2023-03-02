@@ -2,7 +2,7 @@
 
 
 - 💎 Full Stack Developer
-- 💻 Estudando Python e outras linguagens...
+- 💻 Estudando Java e outras linguagens...
 - 📚 Colégio UNIVAP - Curso Técnico em Informática
 
 ### Ferramentas e Tecnologias
