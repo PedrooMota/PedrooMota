@@ -1,4 +1,4 @@
-### Olá. Eu sou o Pedro Mota! 👋
+### Olá, Eu sou o Pedro Mota! 👋
 
 
 - 💎 Full Stack Developer
