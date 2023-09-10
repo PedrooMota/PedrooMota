@@ -22,8 +22,8 @@ height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k
 ##
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrooMota&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrooMota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrooMota&count_private=true&show_icons=true&theme=gotham&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedrooMota&hide_border=true&date_format=d%20F[,%20Y]&theme=gotham&mode=weekly"/>
 </div>
 
 
