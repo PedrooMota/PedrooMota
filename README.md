@@ -35,6 +35,7 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedrooMota&show_icons=true) <img src="https://raw.githubusercontent.com/phosphor-icons/react/b4353ac3fd03914b682c0995d1549061cc9a054f/meta/cube-rotate.svg" height="100" />
+![Pedro Mota GitHub stats](https://github-readme-stats.vercel.app/api?username=PedrooMota&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedrooMota&layout=compact&theme=tokyonight)
+<img src="https://raw.githubusercontent.com/phosphor-icons/react/b4353ac3fd03914b682c0995d1549061cc9a054f/meta/cube-rotate.svg" height="100" />
 
 
