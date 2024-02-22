@@ -2,9 +2,9 @@
 
 - 💎 Full Stack Developer
 - 💻 Estudando Java e outras linguagens...
-- 📚 Colégio UNIVAP - Curso Técnico em Informática
+- 📚 Universidade do Vale do Paraíba - UNIVAP / Graduando em Engenharia da Computação
 
-🔭 Estudante entusiasta que realiza estágio no Parque Tecnológico de São José dos Campos.
+🔭 Programador com três anos de estudos na área e um ano de experiência na área.
 
 💬 Meus contatos
 
