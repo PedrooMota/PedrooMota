@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Pedro Mota!</strong>
+## 🏅 Olá, meu nome é <strong>Pedro Mota!</strong>
 
 - 💎 Full Stack Developer
 - 💻 Estudando Java e outras linguagens...
