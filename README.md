@@ -17,7 +17,7 @@
 ## 🚀 Minhas Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,cs,dotnet,java,react,next,redux,tailwind,docker,postgres,mysql,sqlite,postman,git,github,vscode,visualstudio,arduino,pycharm,netlify,notion&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,django,cs,dotnet,java,react,next,redux,tailwind,docker,postgres,mysql,sqlite,postman,git,github,arduino&perline=14" />
 </div>
 
 ---
