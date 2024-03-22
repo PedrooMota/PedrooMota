@@ -4,7 +4,7 @@
 - 💻 Estudando Java e outras linguagens...
 - 📚 Universidade do Vale do Paraíba - UNIVAP / Graduando em Engenharia da Computação
 
-🔭 Programador com três anos de estudos na área e um ano de experiência na área.
+🔭 Programador com três anos de estudos na área e dois anos de experiência na área.
 
 💬 Meus contatos
 
