@@ -1,10 +1,9 @@
 ## 🏅 Olá, meu nome é <strong>Pedro Mota!</strong>
 
-- 💎 Full Stack Developer
-- 💻 Estudando Java e outras linguagens...
+- 💎 Estagiário de Cloud na Embraer✈️
 - 📚 Universidade do Vale do Paraíba - UNIVAP / Graduando em Engenharia da Computação
 
-🔭 Programador com três anos de estudos na área e dois anos de experiência na área.
+🔭 Quatro anos de estudos na área e três de experiência.
 
 💬 Meus contatos
 
@@ -17,7 +16,7 @@
 ## 🚀 Minhas Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,django,cs,dotnet,java,react,next,redux,tailwind,docker,postgres,mysql,sqlite,postman,git,github,arduino&perline=14" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,django,cs,dotnet,java,aws,gcp,terraform,react,next,redux,tailwind,docker,postgres,mysql,git,arduino&perline=14" />
 </div>
 
 ---
