@@ -1,13 +1,10 @@
 ## 🏅 Olá, meu nome é <strong>Pedro Mota!</strong>
 
-- 💎 Estagiário de Cloud na Embraer✈️
-- 📚 Universidade do Vale do Paraíba - UNIVAP / Graduando em Engenharia da Computação
-
-🔭 Quatro anos de estudos na área e três de experiência.
+- 💎 Analista Cloud na Embraer✈️
 
 💬 Meus contatos
 
- <a href="https://instagram.com/Pedrooh_mota" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://instagram.com/pedrooh_mota" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:pedrohmota2005@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/pedro-henrique-mota/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
