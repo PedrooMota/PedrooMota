@@ -23,21 +23,6 @@ status:
     linkedin: https://www.linkedin.com/in/pedro-henrique-mota/
 ```
 
-### `$ kubectl get repos --sort-by=.lastPush`
-
-<!-- STATUS:START -->
-| NAME | STATUS | LANG | STARS | AGE |
-|---|---|---|---|---|
-| [api-rest-node](https://github.com/PedrooMota/api-rest-node) | 🟢 Running | TypeScript | ⭐ 0 | <1d |
-| [app-fitness](https://github.com/PedrooMota/app-fitness) | ⚪ Completed | TypeScript | ⭐ 0 | 8mo |
-| [Hackathon-receita-federal](https://github.com/PedrooMota/Hackathon-receita-federal) | ⚪ Completed | TypeScript | ⭐ 0 | 17mo |
-| [EC2-AWS](https://github.com/PedrooMota/EC2-AWS) | ⚪ Completed | TypeScript | ⭐ 0 | 2y |
-| [saas-rbac-next](https://github.com/PedrooMota/saas-rbac-next) | ⚪ Completed | TypeScript | ⭐ 0 | 2y |
-| [fundamentos-DDD](https://github.com/PedrooMota/fundamentos-DDD) | ⚪ Completed | — | ⭐ 0 | 2y |
-
-<sub>Atualizado em 2026-11-22 01:03 UTC pelo GitHub Actions</sub>
-<!-- STATUS:END -->
-
 ### `$ kubectl logs contributions --follow`
 
 <picture>
