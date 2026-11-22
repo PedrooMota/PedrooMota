@@ -7,11 +7,11 @@ metadata:
   labels:
     company: embraer
     role: cloud-analyst
-    education: eng-computacao
+    education: analise-desenvolvimento-sistemas
 spec:
-  replicas: 1                     # ainda não escalo horizontalmente
-  cloud: [aws, eks, kubernetes, terraform, docker, github-actions]
-  code:  [typescript, nestjs, react, nextjs, react-native, python]
+  replicas: 2
+  cloud: [aws, gcp, terraform, kubernetes, docker]
+  code:  [typescript, nestjs, java, react, nextjs, react-native, python]
   data:  [postgres, prisma, supabase]
   currentlyBuilding: plataforma-devops   # SSO multi-conta, EKS, saúde e custos
 status:
