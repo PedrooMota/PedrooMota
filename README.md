@@ -1,26 +1,38 @@
-## 🏅 Olá, meu nome é <strong>Pedro Mota!</strong>
+```yaml
+apiVersion: people/v1
+kind: Engineer
+metadata:
+  name: pedro-mota
+  namespace: sao-jose-dos-campos
+  labels:
+    company: embraer
+    role: cloud-analyst
+    education: eng-computacao
+spec:
+  replicas: 1                     # ainda não escalo horizontalmente
+  cloud: [aws, eks, kubernetes, terraform, docker, github-actions]
+  code:  [typescript, nestjs, react, nextjs, react-native, python]
+  data:  [postgres, prisma, supabase]
+  currentlyBuilding: plataforma-devops   # SSO multi-conta, EKS, saúde e custos
+status:
+  phase: Running
+  conditions:
+    - type: OpenTo
+      values: [networking, cloud, devops, platform-engineering]
+  contact:
+    linkedin: https://www.linkedin.com/in/pedro-henrique-mota/
+```
 
-- 💎 Analista Cloud na Embraer✈️
+### `$ kubectl get repos --sort-by=.lastPush`
 
-💬 Meus contatos
+<!-- STATUS:START -->
+_Gerado automaticamente pelo GitHub Actions._
+<!-- STATUS:END -->
 
- <a href="https://instagram.com/pedrooh_mota" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:pedrohmota2005@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/pedro-henrique-mota/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+### `$ kubectl logs contributions --follow`
 
----
-
-## 🚀 Minhas Skills
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,django,cs,dotnet,java,aws,gcp,terraform,react,next,redux,tailwind,docker,postgres,mysql,git,arduino&perline=14" />
-</div>
-
----
-
-## ⭐ Informações sobre minha conta GitHub
-
-![Pedro Mota GitHub stats](https://github-readme-stats.vercel.app/api?username=PedrooMota&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedrooMota&layout=compact&theme=tokyonight)
-<img src="https://raw.githubusercontent.com/phosphor-icons/react/b4353ac3fd03914b682c0995d1549061cc9a054f/meta/cube-rotate.svg" height="100" />
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedrooMota/PedrooMota/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedrooMota/PedrooMota/output/github-snake.svg" />
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/PedrooMota/PedrooMota/output/github-snake.svg" />
+</picture>
